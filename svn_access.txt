@@ -1,0 +1,719 @@
+[groups]
+
+administrators = lgal, sallen, grspence, rmakarch
+# OU Web Development teams
+OUWebApps_dev = aloper,anerkar,crtoledo,dsagredo,fbarisio,ftorres,jashbrid,jgaete,lpatel,manraman,michoe,midavis,prgowda,prtripat,pwahi,rmansfie,rshalini,shchinna,sinapura,skakuman,thegde,tincthom, jamhughe, ryawilli, spuli, anushanm, dmathew, mpieratt, dmsheeha, sspellma, ancarrol, sibnayak, alexaflo, prib, rbarbu, cgpop, hgoenka, puraut, spuli, dmathew, amb, malk, monam, vmoger, abrahmed, mondash, anitakum, binmadha, vvvikram, masavant, kukashis, futreras, fpemery, smpearso
+
+# Support
+OUGSO_Support = dhilliar, saganesa, arjones, snesinha, sazmal, anushanm, jpeketz
+
+# OUGSO App Dev Internal Development team
+OUGSO_Internal_dev = rmuthapp, sgoparap, shipmath, arjones, @ouapp_dev, shiprmat, yeskumar, sanumuko, venbabu
+
+#OU_COMMERCE project
+OU_COMMERCE_dev = rmansfie,midavis,hhhayash,ftorres,crtoledo,kukashis,jsoltani,hgoenka,prtripat,prikkuma,riskashy,yeskumar,ptr,mondash,pneginha,ramekumk, fdecicco, sunchoud, hgoenka, abrahmed, anitakum, monam, anerkar
+#DL4 project
+DL4_dev = aloper, dsagredo, puraut, fbarisio, jashbrid, ancarrol, futreras, fpemery, smpearso
+
+#Pathways project
+Pathways_dev = futreras, fpemery, smpearso, jashbrid, dsagredo, fbarisio, ancarrol, smpearso, puraut, aloper, prtripat
+
+#OU_Quality_Assurance
+OU_Quality_Assurance_dev = sunrajap, zhaneef, shneogi, sannamal
+
+#OCP_new project
+OCP_new_dev = rajam, rbs, shiprmat, snazneen
+
+# IDC centered Primary Systems Developers
+
+# OU Application Development Team - requested by Srividya
+ouapp_dev = bhvenkat, pprusty, nlkumar, dsagredo, snazneen, nkara,  prtripat, grspence, jsoltani, jgaete, fbarisio, iraj, ahuilgol, abharatu, sasayada, tincthom, manraman, sasayada, heprasad, sibnayak, adadgupt, ancarrol, ratrao, praprust, manjm, vinmehra, raveredd, rbs, pomadhur, ptr, hgoenka, puraut, akdesu, raveredd, saikukum, prikkuma, dvalappi
+
+CET_dev =   @ouapp_dev
+CLA_dev =   @ouapp_dev
+CourseAvailabilityTool_dev = pkpai, dpaschal, agodakhi, @ouapp_dev
+CourseEvalSystem_dev = pkpai, sgoparap, abgoswam, rmuthapp, @ouapp_dev
+DemandCapture_dev =  pkpai, manoshet, @ouapp_dev
+EAttendance_dev = pkpai, skparida, @ouapp_dev
+EventMonitor_dev = agodakhi , harissha, @ouapp_dev
+LCCrossBorderTool_dev = agodakhi, @ouapp_dev
+LeadsDatamart_dev = agodakhi, @ouapp_dev
+OCP_dev = agodakhi, @ouapp_dev
+OUGBS_AUTOSR_dev = agodakhi, @ouapp_dev
+OUKC_dev = @ouapp_dev
+OUOM_dev = prtripat, yeskumar, ptr, anandak, dvalappi, pomadhur
+OUiLearning_dev = @ouapp_dev, sasayada, sibnayak, heprasad, crtoledo, saganesa, alexaflo, ancarrol, sspellma
+OUResourceCenter_dev = manoshet, hkshetty, skparida, sgoparap, abgoswam, rmuthapp, @ouapp_dev
+OUdatamart_dev = manoshet,  skparida, @ouapp_dev
+PEMS_dev = agodakhi , harissha, @ouapp_dev
+SPOT_dev = manoshet, skparida, @ouapp_dev
+WDP_dev = agodakhi, @ouapp_dev
+Res_Automation_dev = @ouapp_dev
+OUDigital_dev = thegde, prtripat, fbarisio, dsagredo, ancarrol, sspellma, puraut, jashbrid, aloper, anerkar
+
+#removed as Grand requested
+#OCPFulfillment_dev = agodakhi, @ouapp_dev
+#OCPVendorDataImport_dev = agodakhi, @ouapp_dev
+
+# Chilean centered Primary Systems Developers
+#cleaned users and groups who are covered by ouapp_dev group or no longer with Oracle  -Srividya
+territorylookup_dev = dolivare, dpaschal, nigarcia
+gqt_dev = nigarcia, dolivare, jpeketz, @ouapp_dev
+gat_dev = nigarcia, dolivare, jpeketz, @ouapp_dev
+oucatalog_dev = nigarcia, @ouapp_dev
+translrepos_dev = jsoltani, jgaete,   @ouapp_dev
+
+
+avayaload  = lgal
+bpm_dev = lgal, grspence
+curriculum360_dev = lgal, @idc, futreras, sallen
+eua360 = lgal, @idc, grspence
+idc    = kkommula, sorangan, naswal, sgoparap, rmuthapp, bhvenkat
+it_guests = kshibata, smangalg, avassy, sselaf, mhardy, jatkinso, rzagni, ksjacobs, raswami, aentwisl, scalliss, ejames, lajdavid, danwill, mdemeczk, scalliss, ejames, mhardy, ksivagur, vfekete, caringle, fycheung, shbhat, sgnaraya, springle, jrhyde, msethura, tpieh, arothste
+
+git_guests = ermoore, mbogue, adonde, sfoust, tsamosa, jmwright, mamcandr, mmmellot, kgarland, mclick
+lc360_dev = lgal, @idc
+odipilot_dev = lgal, paalvare, naswal, dhasukum, rmakarch, gszilos
+ou360  = lgal, @idc, grspence
+ou_analytics_superusers =  mkusiak, juscolli, sfisher, jubuckle, acannell, jelchoue, vbogdan, adcoman, emocanu, chtakaha, cheredia, malawren
+oudw   = lgal, sallen, sorangan, srkamala, dbeardmo, naswal, kkommula, grspence, bhvenkat, dganescu, gszilos, snazneen, stedla, prabmukh, kgilley, riskashy, bhaprasa, yeskumar
+si_guests = abarenco, gconete, osilica, rnica
+ougbs_guests = jelchoue,tmohay,avassy, nkara, groberso, @ou_analytics_superusers, michoe, hhhayash, zratkai,bdanko, jrhyde, msethura,asemjen,cmacmill
+css_guests = bhodge, ktully, tapps
+ousb   = lgal, @idc, grspence, sallen
+ousd   = lgal, sallen
+ousoa_dev = @administrators, bhvenkat, snazneen, prtripat, sasayada, ahuilgol, tincthom, manraman, agodakhi, arjones, snesinha, saganesa, @administrators
+rainbowdev = lgal, grspence
+salesrep_scorecard_dev = lgal 
+trac_dev = lgal
+uas_reports_dev = lgal
+ougso_support =  dhilliar, saganesa
+oudwv2dev = rmakarch, lgal, dbeardmo, sganga, khashim, moraju, sallen, sorangan, kkommula, dnijagun, grspence, naswal, snazneen, dganescu, gszilos, stedla, prabmukh, kgilley, arothste, ajperry, riskashy, bhaprasa, yeskumar
+ourepcatdev = lgal, grspence, gszilos, sallen, dbeardmo
+ou_compliance = kkommula, sallen
+ougso_appdev = grspence,   dganescu, dbeardmo
+automationTestingScripts_dev = rnarasap,sannamal,sayachat,dnankani,rmansfie,anerkar,grspence, dnankani, kkommula, kcn, muppunda, vgaind
+disco_decomm_dev = @oudw, @oudwv2dev, dhilliar
+tritonsteeringcommittee = blsmith, rmansfie, dmknox
+cxd_guests = sarsalan, kfarrow
+ges_guests = jmason, ahentea
+triton_etlmonitoring_devs = lgal, gszilos, dbeardmo
+# Group for OUDW St. Petersburg team members who had no corp.ldap account
+# at the beginning of their work. For this group local authentication method
+# was set. By now it is obsolete as all of them have sso account.
+oudwsp = lgal,rmakarch
+
+# OU Partner Reporting Workspace, currently EMEA initiative but open for all regions and global
+ouprw_dev = jubuckle, sjohnson,dganescu,vbogdan,alpeta,adcoman,sallen,@idc,lgal
+#Everbody who was member of any teams, to keep audit records
+ex_team_members = stadimar, akoothir, fdebonis, kghonge, pchopra , hskang, aasharma, bnnayak, lwilfer, srkamala, ssudhaka
+
+marketingTeam = angopala, smalkar, danwill, kfarrrow, ebjames, pretraj, pkalai
+
+internalTraining = jkong
+
+oal_cmr_bi = lgal,garustog,sispaul,knatekar,yasharma,sselaf,jopinter,tamagal,gahegedu,mkishont,zsonagy,roshtom,sasainan
+
+all = @administrators, @oudw, @oudwv2dev, @ousd, @ou360, @ousb, @eua360, @rainbowdev, @idc, @salesrep_scorecard_dev, @ougbs_guests, @it_guests, @git_guests, @territorylookup_dev, sselaf, @oudwsp, jbloggs,lgallocal, @ouprw_dev, @EAttendance_dev, @WDP_dev, @oucatalog_dev, @ouapp_dev, @OUGSO_Internal_dev, @odipilot_dev, @ougso_support, @Res_Automation_dev, crhoerma, @OUWebApps_dev, cxd_guests, @internalTraining, @marketingTeam, @cxd_guests, @ges_guests, @css_guests, @oal_cmr_bi
+
+OU_AMS_CONTRACTORS = pomadhur, rbs
+
+# ##############################################
+# OU Web Applications team maintained systems
+# ##############################################
+[OU_WEB_APPS:/]
+@OUWebApps_dev = rw
+@administrators = rw
+@all = r
+hasmith = rw
+
+[OUDL:/]
+@OUWebApps_dev = rw
+@administrators = rw
+@all = r
+
+[DL3:/]
+@OUWebApps_dev = rw
+@administrators = rw
+@all = r
+
+[DL4:/]
+@DL4_dev = rw
+@administrators = rw
+@all = r
+
+[Pathways:/]
+@Pathways_dev = rw
+@administrators = rw
+@all = r
+
+[OU_Quality_Assurance:/]
+@OU_Quality_Assurance_dev = rw
+@administrators = rw
+@all = r
+
+[OCP_new:/]
+@OCP_new_dev = rw
+@administrators = rw
+@all = r
+
+#GIS is planning to audit source code of applications running on FAPAP
+
+# ##############################################
+# OUGSO Custom App. Dev. team maintained systems
+# ##############################################
+[OU_COMMERCE:/]
+@OU_COMMERCE_dev = rw 
+@administrators = rw
+@all = r
+
+
+# ##############################################
+# OUGSO Custom App. Dev. team maintained systems
+# ##############################################
+# Applications maintained by OU Application Development team
+#Srividya added ouapp_dev group to all the application repositories
+
+[Res_Automation:/]
+@Res_Automation_dev =rw
+@administrators = rw
+@all = r
+
+[OUDigital:/]
+@OUDigital_dev = rw
+@administrators = rw
+@all = r
+
+
+[CLA:/]
+@CLA_dev = rw
+@administrators = rw
+@all = r
+
+[CET:/]
+@CET_dev = rw
+@administrators = rw
+@all = r
+
+[OCP:/]
+@OCP_dev = rw
+@administrators = rw
+@all = r
+hasmith = rw
+#GIS is planning to audit source code of applications running on FAPAP
+
+[OUSOA_WHATISTHIS:/]
+lgal = rw
+
+[ousoa:/]
+@ousoa_dev = rw
+@administrators = rw
+@all = r
+
+[EventMonitor:/]
+@EventMonitor_dev = rw
+@OUGSO_Internal_dev = rw
+@administrators = rw
+@all = r
+
+[LeadsDatamart:/]
+@LeadsDatamart_dev = rw
+@administrators = rw
+@all = r
+
+[LCCrossBorderTool:/]
+@LCCrossBorderTool_dev = rw
+@administrators = rw
+@all = r
+
+[OCPFulfillment:/]
+#removed as Grand requested, but kept the repository for a while. Clean it after 31-Aug-2011
+#@OCPFulfillment_dev = rw
+#@administrators = rw
+@all = r
+
+[OCPVendorDataImport:/]
+#removed as Grand requested, but kept the repository for a while. Clean it after 31-Aug-2011
+#@OCPVendorDataImport_dev = rw
+#@administrators = rw
+@all = r
+
+[OUGBS_AUTOSR:/]
+@OUGBS_AUTOSR_dev = rw
+@administrators = rw
+@all = r
+hasmith = rw
+#GIS is planning to audit source code of applications running on FAPAP
+
+[PEMS:/]
+@PEMS_dev = rw
+@administrators = rw
+@all = r
+
+[CourseEvalSystem:/]
+@CourseEvalSystem_dev = rw
+@administrators = rw
+@all = r
+hasmith = rw
+#GIS is planning to audit source code of applications running on FAPAP
+
+[iLearningCustomApps:/]
+@all = r
+grspence = rw
+abharatu = rw
+tincthom = rw
+manraman = rw
+fbarisio = rw
+sasayada = rw
+@OUiLearning_dev = rw
+OUResourceCenter_dev = rw
+
+[DemandCapture:/]
+@DemandCapture_dev = rw
+@administrators = rw
+@all = r
+hasmith = rw
+#GIS is planning to audit source code of applications running on FAPAP
+
+[OUdatamart:/]
+@OUdatamart_dev = rw
+@administrators = rw
+@all = r
+
+[OUResourceCenter:/]
+@OUResourceCenter_dev = rw
+@administrators = rw
+@all = r
+hasmith = rw
+#GIS is planning to audit source code of applications running on FAPAP
+
+[OUKC:/]
+@OUKC_dev = rw
+@administrators = rw
+@all = r
+
+
+[OUOM:/]
+@OUOM_dev = rw
+@administrators = rw
+@all = r
+
+
+[OUiLearning:/]
+@OUiLearning_dev = rw
+@administrators = rw
+@all = r
+
+
+[SPOT:/]
+@SPOT_dev = rw
+@administrators = rw
+@all = r
+
+####
+[CAT:/]
+@CourseAvailabilityTool_dev = rw
+@administrators = rw
+@all = r
+
+[EAttendance:/]
+@EAttendance_dev = rw
+@administrators = rw
+@all = r
+hasmith = rw
+#GIS is planning to audit source code of applications running on FAPAP
+
+[WDP:/]
+@WDP_dev = rw
+@administrators = rw
+@all = r
+
+[OUGSO_Internal:/]
+@OUGSO_Internal_dev = rw
+@administrators = rw
+@all = r
+
+
+[TRAC:/]
+@trac_dev = r
+@administrators = rw
+@all = r
+
+[TerritoryLookup:/]
+@territorylookup_dev = rw
+@administrators = rw
+@all = r
+
+[GQT:/]
+@gqt_dev = rw
+@administrators = rw
+@all = r
+
+[GAT:/]
+@gat_dev = rw
+@administrators = rw
+@all = r
+
+[OUCatalog:/]
+@oucatalog_dev = rw
+@administrators = rw
+@all = r
+hasmith = rw
+#GIS is planning to audit source code of applications running on FAPAP
+
+[TranslRepos:/]
+@translrepos_dev = rw
+@administrators = rw
+@all = r
+
+# ##############################################
+# OU Partner Reporting Workspace,
+# currently EMEA initiative but open for
+# all regions and global teams.
+# ##############################################
+# 
+[ouprw:/]
+@ouprw_dev = rw
+@all = r
+
+# ##############################################
+# OUGSO DW&BI maintained systems
+# ##############################################
+# OU Data Warehouse legacy system with subsystems/projects
+[oudw:/]
+@oudw = rw
+@OUGSO_Support = r
+@OU_AMS_CONTRACTORS = rw
+@all = r
+
+[oudw:/oudw/trunk/OracleDataModeler]
+lgal = rw
+grspence = rw
+@all = r
+
+[oudw:/oudw/ouams/project_mgt/00-PM-Project_Management]
+jubuckle = rw
+
+[oudw:/ouams]
+snazneen= rw
+jubuckle = rw
+@oudw = rw
+@all = r
+@si_guests = r
+@OU_AMS_CONTRACTORS = rw
+
+[oudw:/ousyncont]
+* = r
+sallen = rw
+lgal = rw
+
+[oudw:/support_tools]
+@all = rw
+
+[oudw:/support]
+@all = rw
+
+[oudw:/project_mgt]
+lgal = rw
+sallen = rw
+sorangan = rw
+dbeardmo = rw
+grspence = rw
+@all = r
+
+[oudw:/project_mgt/2-RA-Requirement_Analysis/Corporate_Customer_Hierarchy]
+lgal = rw
+sallen = rw
+dbeardmo = rw
+@all = r
+
+[oudw:/project_mgt/C-SU-Support/One_Off_Reports]
+@all = rw
+
+[oudw:/ou360]
+* = r
+@ou360 = rw
+
+[ou360v2:/]
+* = r
+@ou360 = rw
+
+[oudw:/oudw]
+* = r
+@oudw = rw
+
+[oudw:/ousb]
+* = r
+@ousb = rw
+
+[oudw:/ousd]
+@all = r
+@ousd = rw
+
+[oudw:/avayaload]
+@all = r
+lgal = rw
+@avayaload = rw
+
+[oudw:/salesrep_scorecard]
+@all = r
+@salesrep_scorecard_dev = rw
+
+[oudw:/OU_Compliance]
+@all = r
+@administrators = rw
+@ou_compliance = rw
+
+[GSSL:/]
+@administrators = rw
+@all = r
+
+# Next Generation OU Data Warehouse, the home of system Triton
+[oudwv2:/]
+@oudwv2dev = rw
+@OUGSO_Support = r
+@all = r
+@OU_AMS_CONTRACTORS = rw
+@tritonsteeringcommittee = r
+lajdavid = r
+danwill = r
+rmansfie = r
+springle = r
+bhodge = r
+jonathal = r
+
+
+[oudwv2:/project_mgt/E-SE-Security]
+@si_guests = r
+springle = r
+chtakaha = r
+
+[oudwv2:/project_mgt/0-PM-Project_Management]
+@tritonsteeringcommittee = r
+@git_guests = r
+
+[oudwv2:/trunk/sharing_zone/DBL_CXD5_CXD]
+@marketingTeam = rw
+
+[oudwv2:/trunk/sharing_zone/DBL_GIT_GPOS]
+@ges_guests = rw
+
+#----------------------------------------------
+[disco_decomm:/]
+@disco_decomm_dev = rw
+@all = r
+#----------------------------------------------
+
+#----------------------------------------------
+
+# trunk and branches are read-only for everyone during code freeze but admin
+#----------------------------------------------
+#[oudwv2:/trunk]
+#@all = r
+#lgal = rw
+
+#[oudwv2:/branches]
+#@all = r
+#lgal = rw
+#----------------------------------------------
+
+# trunk/etl is read-only for everyone but admin
+#[oudwv2:/trunk/etl]
+#@all = r
+#lgal = rw
+#naswal = rw
+#sallen = rw
+
+# Tags is read-only for everyone but admin
+[oudwv2:/tags]
+@all = r
+lgal = rw
+# Selu is helping in Time machine design
+# [oudwv2:/trunk/vault_aggr_denorm/DesignConcepts]
+# sselaf = rw
+
+[odipilot:/]
+@odipilot_dev = rw
+@all = r
+
+# ##############################################
+# DOS/Cygwin shell script based Discoverer exeicution
+# ##############################################
+[genbatch:/]
+* = r
+lgal = rw
+sallen = rw
+
+[GenBatchColour:/]
+* = r
+lgal = rw
+sallen = rw
+
+# ##############################################
+# GCW Sales Analytics reports' xml archives
+# ##############################################
+[SalesAnalytics:/]
+lgal = rw
+grspence = rw
+* = r
+
+# ##############################################
+# Curriculum360 system
+# ##############################################
+[curriculum360:/]
+* = r
+@curriculum360_dev = rw
+
+# ##############################################
+# LC 360 system
+# ##############################################
+[lc360:/]
+* = r
+@lc360_dev = rw
+
+# ##############################################
+# Apex archives.
+# Due to their size Apex apps come here separately
+# ##############################################
+[htmldb:/]
+@all = r
+@idc = rw
+@administrators = rw
+@ougso_appdev = rw
+
+# ##############################################
+# OU Report Catalogue
+# ##############################################
+[ourepcat:/]
+@ourepcatdev = rw
+* = r
+
+# ##############################################
+# Other systems
+# ##############################################
+[durinskeys:/]
+lgal = rw
+sallen = rw
+dbeardmo = rw
+rmakarch = rw
+grspence = rw
+gszilos = rw
+sorangan = rw
+stedla = rw
+prabmukh = rw
+kkommula = rw
+kgilley = rw
+riskashy = rw
+bhaprasa = rw
+yeskumar = rw
+
+[svn_maintenance:/]
+@administrators = rw
+@all = r
+
+[commondimensions:/]
+@all = r
+@administrators = rw
+lgal = rw
+dbeardmo = rw
+springle = rw
+bhodge = rw
+amckinne = rw
+
+# ##############################################
+# Test and trial repositories
+# ##############################################
+[branch_test:/]
+* = r
+@all = rw
+
+[branch_test_2:/]
+* = r
+@all = rw
+
+[AutomationTestingScripts:/]
+* = r
+@automationTestingScripts_dev = rw
+
+[oudwjdev:/]
+lgal = rw
+grspence = rw
+
+[testrepository:/]
+* = rw
+@all = rw
+
+[BPMstudio:/]
+@bpm_dev = rw
+@administrators = rw
+@all = r
+
+[tvtest:/]
+lgal = rw
+* = r
+
+[odi:/]
+lgal = rw
+gszilos = rw
+rmakarch = rw
+@all = r
+
+# ##############################################
+# Personal testing grounds systems
+# ##############################################
+
+[wikipedia:/]
+lgal = rw
+
+[grant_private:/]
+grspence = rw
+
+[OAL-BIPLTFM-CD:/]
+@all = r
+@oal_cmr_bi = rw
+
+[oalcrmbimm:/]
+@all = r
+@oal_cmr_bi = rw
+
+# ##############################################
+# Obsolete repositories
+# ##############################################
+# User Adoption Services separate repository.
+# Obsolete, merged into OUDW.
+[uas_reports:/]
+* = r
+@eua360 = rw
+@uas_reports_dev = rw
+@administrators = rw
+
+# Colour reports development
+[rainbow:/]
+@rainbowdev = rw
+@ousb = r
+@oudw = r
+
+# Union All initiative, merged into OUDW later
+[UARS:/]
+* = r
+lgal = rw
+
+# End User Adoption 360
+[eua360:/]
+* = r
+@eua360 = rw
+
+[oxt_exceptions:/]
+* = r
+lgal = rw
+
+# test_modeler
+[test_modeler:/]
+* = r
+lgal = rw
+
+# triton_etlmonitoring sandbox repository
+[triton_etlmonitoring:/]
+* = r
+@triton_etlmonitoring_devs =rw
+
